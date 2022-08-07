@@ -6,10 +6,10 @@
 </a>
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PegasusWang" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PegasusWang&theme=dark" />
 </div>
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=pegasuswang&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=pegasuswang&theme=minimal&theme=dracula" />
 </div>
 
 **Skills:**
