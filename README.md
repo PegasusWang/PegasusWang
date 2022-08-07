@@ -1,3 +1,4 @@
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PegasusWang&count_private=true&show_icons=true&theme=dark" />
 </a>
@@ -6,9 +7,6 @@
 </a>
 
 
-<!-- <div align="center">                                                                               -->
-<!--     <img src="https://activity-graph.herokuapp.com/graph?username=pegasuswang&theme=dracula" />    -->
-<!-- </div>                                                                                             -->
 
 <!-- <div align="center">                                                                               -->
 <!--     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PegasusWang&theme=dark" />   -->
@@ -27,6 +25,10 @@
 <!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alfred.svg"></code> -->
 
 
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=pegasuswang&theme=dracula" />
+</div>
+
 ### 技术栈
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
@@ -38,4 +40,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-192133?style=flat-square&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
+![Iterm2](https://img.shields.io/badge/-Iterm2-192133?style=flat-square&logo=Iterm2&logoColor=white)
 ![Alfred](https://img.shields.io/badge/-Alfred-192133?style=flat-square&logo=alfred&logoColor=white)
+
