@@ -5,6 +5,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PegasusWang&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
 </a>
 
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PegasusWang" />
+</div>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=pegasuswang&theme=minimal" />
+</div>
+
 **Skills:**
 
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
@@ -16,3 +23,5 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alfred.svg"></code>
+
+
